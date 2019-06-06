@@ -1,4 +1,4 @@
-삼중 for문 shellsort 알고리즘
+shellsort 알고리즘
 
 ~~~c
 #include <stdio.h>
